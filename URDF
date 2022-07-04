@@ -1,0 +1,21 @@
+<robot>
+	<link>
+				<inertial>
+			...
+		</inertial>
+		<visual>
+			<geometry>
+				...
+			</geometry>
+			<material>
+				<color rgba = "1 0 0 1" />
+			</material>
+		</visual>
+	</link>
+	<link>
+		...
+	</link>
+	<joint>
+		...
+	</joint>
+</robot>
